@@ -1,4 +1,4 @@
-﻿// B911037 김순욱
+
 // Lab8View.cpp: CLab8View 클래스의 구현
 //
 
